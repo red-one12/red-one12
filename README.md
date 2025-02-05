@@ -80,7 +80,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=red-one12&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=red-one12)](https://github.com/red-one12/github-readme-stats)
 </div>
 
 ###
