@@ -79,9 +79,9 @@
 
 ###
 
-<div align="center">
+
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=red-one12)](https://github.com/red-one12/github-readme-stats)
-</div>
+
 
 ###
 
