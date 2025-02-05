@@ -80,7 +80,9 @@
 ###
 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=red-one12)](https://github.com/red-one12/github-readme-stats)
+ <img src="https://github-readme-stats.vercel.app/api?username=red-one12&show_icons=true" alt="GitHub Stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=red-one12&show_icons=true" alt="Top Languages">
+
 
 
 ###
